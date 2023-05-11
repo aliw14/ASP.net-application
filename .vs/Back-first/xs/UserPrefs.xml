@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{B965840A-7C35-4D36-BC5C-96E15D067CCD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Back-first PreferredExecutionTarget="/Users/ali/Desktop/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Back-first/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Back-first/Views/Students/Index.cshtml">
     <Files>
       <File FileName="Back-first/appsettings.json" />
-      <File FileName="Back-first/Program.cs" Line="1" Column="21" />
+      <File FileName="Back-first/Program.cs" />
       <File FileName="Back-first/Controllers/HomeController.cs" />
       <File FileName="Back-first/Controllers/StudentsController.cs" />
       <File FileName="Back-first/Models/Student.cs" />
       <File FileName="Back-first/Views/Home/Index.cshtml" />
-      <File FileName="Back-first/Views/Students/Index.cshtml" />
+      <File FileName="Back-first/Views/Students/Index.cshtml" Line="1" Column="1" />
       <File FileName="Back-first/Views/Students/Details.cshtml" />
       <File FileName="Back-first/Properties/launchSettings.json" />
     </Files>
@@ -32,8 +34,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>
